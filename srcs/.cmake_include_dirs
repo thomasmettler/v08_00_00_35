@@ -1,0 +1,5 @@
+# DO NOT DELETE 
+# ubcrt package block
+set(ubcrt_not_in_ups true)
+include_directories ( ${CMAKE_CURRENT_SOURCE_DIR}/ubcrt )
+include_directories ( $ENV{MRB_BUILDDIR}/ubcrt )

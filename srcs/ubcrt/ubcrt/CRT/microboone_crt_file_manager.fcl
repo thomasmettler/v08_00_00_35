@@ -1,0 +1,11 @@
+BEGIN_PROLOG
+  
+microboone_crt_file_manager: {
+  debug:       false
+  maxFiles:    15
+  CRTHitLabel: "crthit"
+  ubversion_CRTHits:  "NoVersion"
+  CRTMetadataDir: "/cvmfs/uboone.osgstorage.org/stash/crt_metadata"
+}
+
+END_PROLOG
