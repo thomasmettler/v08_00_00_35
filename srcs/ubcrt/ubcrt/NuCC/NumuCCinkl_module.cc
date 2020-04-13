@@ -412,7 +412,7 @@ private:
   int Genie_nPiMinus_preFSI;// before FSI 
   
   std::vector<double> para[100];
-  char para_name[100][200];
+  //char para_name[100][200];
 
   TTree* _sr_tree;
   int _sr_run = -9999;
